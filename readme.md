@@ -22,7 +22,7 @@ telegram - @Xacker_ducker
 
 <h2>Ход выполнения домашней работы:</h2>
 
-[new_repo]{https://github.com/Alex1505Gold/new_repo)
+[new_repo](https://github.com/Alex1505Gold/new_repo)
 
 ![screen01](./screens/screen01.png)</br>
 ![screen02](./screens/screen02.png)</br>
