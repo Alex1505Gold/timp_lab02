@@ -22,12 +22,24 @@ telegram - @Xacker_ducker
 
 <h2>Ход выполнения домашней работы:</h2>
 
-[new_repo](https://github.com/Alex1505Gold/new_repo)
+[new_repo](https://github.com/Alex1505Gold/new_repo)</br>
 
-![screen01](./screens/screen01.png)</br>
-![screen02](./screens/screen02.png)</br>
-![screen03](./screens/screen03.png)</br>
-![screen04](./screens/screen04.png)</br>
-![screen05](./screens/screen05.png)</br>
-![screen06](./screens/screen06.png)</br>
-![screen07](./screens/screen07.png)</br>
+![screen01](./screens/hw_01.png)</br>
+![screen01](./screens/hw_02.png)</br>
+![screen01](./screens/hw_03.png)</br>
+![screen01](./screens/hw_04.png)</br>
+![screen01](./screens/hw_05.png)</br>
+![screen01](./screens/hw_06.png)</br>
+![screen01](./screens/hw_07.png)</br>
+![screen01](./screens/hw_08.png)</br>
+![screen01](./screens/hw_09.png)</br>
+![screen01](./screens/hw_10.png)</br>
+![screen01](./screens/hw_11.png)</br>
+![screen01](./screens/hw_12.png)</br>
+![screen01](./screens/hw_13.png)</br>
+![screen01](./screens/hw_14.png)</br>
+![screen01](./screens/hw_15.png)</br>
+![screen01](./screens/hw_16.png)</br>
+![screen01](./screens/hw_17.png)</br>
+![screen01](./screens/hw_18.png)</br>
+![screen01](./screens/hw_19.png)</br>
