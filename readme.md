@@ -1,10 +1,10 @@
-<h1>Отчет по лобораторной 01</h1>
+<h1>Отчет по лобораторной 02</h1>
 </br>gmail почта - sgolenkov2002@gmail.com </br>
 telegram - @Xacker_ducker
 
 <h2>Ход выполнения лабораторной работы:</h2>
 
-[репозиторий lab02](https://github.com/Alex1505Gold/lab02)
+[репозиторий lab02](https://github.com/Alex1505Gold/lab02)</br>
 
 ![screen01](./screens/Screen_01.png)</br>
 ![screen02](./screens/Screen_02.png)</br>
@@ -21,6 +21,8 @@ telegram - @Xacker_ducker
 ![screen03](./screens/Screen_13.png)</br>
 
 <h2>Ход выполнения домашней работы:</h2>
+
+[new_repo]{https://github.com/Alex1505Gold/new_repo)
 
 ![screen01](./screens/screen01.png)</br>
 ![screen02](./screens/screen02.png)</br>
